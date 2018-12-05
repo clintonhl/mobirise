@@ -1908,8 +1908,8 @@ body {
   }
 }
 .cid-rahRUAOcZQ {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rahRUAOcZQ .title {
@@ -2157,10 +2157,13 @@ body {
   }
 }
 .cid-raD1dyj3je H1 {
-  text-align: right;
+  text-align: center;
 }
 .cid-raD1dyj3je .mbr-text,
 .cid-raD1dyj3je .mbr-section-btn {
+  text-align: center;
+}
+.cid-raD1dyj3je DIV {
   text-align: center;
 }
 .cid-rbifgzZXos {
